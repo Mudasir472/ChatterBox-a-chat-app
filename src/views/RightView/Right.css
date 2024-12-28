@@ -1,0 +1,15 @@
+.right {
+    width: 71%;
+}
+
+.allMessages{
+    width: 98%;
+}
+
+.rightChatInfo {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.chatContainer{
+    height: 88vh;
+}

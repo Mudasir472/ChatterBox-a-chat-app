@@ -1,0 +1,35 @@
+.dp img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.chatsMain {
+    height: 82px;
+    cursor: pointer;
+    padding: 16px;
+}
+
+.chatsMain:hover {
+    background-color: rgb(228, 223, 223);
+    color: black;
+}
+
+.setBg {
+    background-color: rgb(228, 223, 223);
+    color: black;
+}
+
+.allChats {
+    border-radius: 12px;
+    min-height: 88vh;
+}
+
+.allChats::-webkit-scrollbar {
+    width: 2px;
+    background-color: aqua;
+}
+
+.left {
+    width: 29%;
+}
